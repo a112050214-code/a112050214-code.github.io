@@ -22,14 +22,14 @@ text-transform: uppercase;
 */
 /* 範例⽰範：設定為⾼質感「深⼤海藍」 (RGB: 25, 25, 112)
 */
---bs-primary-rgb: 25, 25, 112;
+--bs-primary-rgb: 104, 19, 3;
 /* (可選) 同步統⼀超連結與滑⿏懸停顏⾊ */
---bs-link-color: rgb(25, 25, 112);
+--bs-link-color: rgb(104, 19, 3);
 --bs-link-hover-color: rgb(15, 15, 80);
 }
 /* 同步修改社群圖⽰按鈕 Hover 時的背景⾊彩 */
 .social-icons .social-icon:hover {
-background-color: rgb(25, 25, 112);
+background-color: rgb(104, 19, 3);
 }
 /* ===================================================
 3. 履歷內容區塊背景與邊界優化
